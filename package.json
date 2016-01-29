@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "bower install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-tyagi/gulp-starter-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit-tyagi/gulp-starter-app/issues"
+  },
+  "homepage": "https://github.com/amit-tyagi/gulp-starter-app#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
